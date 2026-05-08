@@ -3,9 +3,9 @@
 Antes de abrir un PR:
 
 ```md
-[ ] Trabaje en una rama, no directo en main.
-[ ] El cambio tiene un objetivo claro.
-[ ] El cambio es pequeno y revisable.
+[*] Trabaje en una rama, no directo en main.
+[*] El cambio tiene un objetivo claro.
+[*] El cambio es pequeno y revisable.
 [ ] El titulo del PR explica el cambio.
 [ ] La descripcion dice que se modifico y por que.
 [ ] Indique que necesita revision.
