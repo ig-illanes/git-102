@@ -3,7 +3,7 @@
 ## Linea original
 
 ```txt
-El equipo debe revisar los cambios antes de integrarlos.
+El lider del equipo debe revisar los cambios antes de integrarlos.
 ```
 
 ## Cambio de Persona A
